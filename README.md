@@ -5,4 +5,7 @@
 ```pip install streamlit babel```
 
 ## Menjalankan streamlit
+- Buka aplikasi editor
+- Buka folder **Dashboard**
+- Jalankan kode:
 ```streamlit run dashboard.py```
